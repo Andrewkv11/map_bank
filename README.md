@@ -1,5 +1,5 @@
 # Folium map
-На хостинге https://pystudio.fun/bank
+На хостинге https://pystudio.fun/sber
 
 
 ## Локальный запуск (docker)
